@@ -1,5 +1,5 @@
-# 🏢 Employee Hierarchy System
 
+danielheerrera94@gmail.com
 ## 🚀 Overview
 This project provides a **Go backend** that serves employee hierarchy data and a **React frontend** that displays it in a **nested structure**. The system ensures that employees are grouped under their respective managers, sorted alphabetically by last name.
 
